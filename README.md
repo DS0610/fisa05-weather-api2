@@ -10,3 +10,5 @@
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
+
+[![update-weather](https://github.com/DS0610/fisa05-weather-api2/actions/workflows/update_weather.yml/badge.svg)](https://github.com/DS0610/fisa05-weather-api2/actions/workflows/update_weather.yml)
