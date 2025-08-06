@@ -6,9 +6,7 @@
 ## 현재 서울 날씨
 > 서울의 현재 날씨: light rain, 온도: 28.76°C, 습도: 100%
 
-⏳ 업데이트 시간: 2025-08-06 01:14:58 (UTC)
+⏳ 업데이트 시간: 2025-08-06 02:54:46 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
-
-[![update-weather](https://github.com/DS0610/fisa05-weather-api2/actions/workflows/update_weather.yml/badge.svg)](https://github.com/DS0610/fisa05-weather-api2/actions/workflows/update_weather.yml)
